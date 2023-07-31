@@ -1,0 +1,39 @@
+.About{
+  color:#fff;
+  background-color:#1abc9c;
+  height: 80vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 5rem;
+  margin-top: 4rem;
+}
+.About h1{
+  font-size: 64px;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line1{
+  width: 7rem;
+  height:.25rem ;
+  background-color: #fff;
+}
+.aboutcontent{
+  display: flex;
+  justify-content: center;
+  text-align: start;
+  font-size: 20px;
+  margin-top: 2rem;
+
+}
+.about1{
+  width: 25%;
+}
+.about2{
+  width: 25%;
+  margin-left: 3rem;
+}

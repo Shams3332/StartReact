@@ -1,0 +1,27 @@
+.start{
+  color:#fff;
+  background-color:#1abc9c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 5rem;
+}
+.start h1{
+  font-size: 64px;
+}
+.start p{
+  font-size: 24px;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line1{
+  width: 7rem;
+  height:.25rem ;
+  background-color: #fff;
+}

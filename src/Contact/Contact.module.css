@@ -1,0 +1,61 @@
+.contact{
+  color: #2c3e50;
+  /* height: 80vh; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 5rem;
+  margin-top: 4rem;
+}
+.contact h1{
+  font-size: 64px;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line1{
+  width: 7rem;
+  height:.25rem ;
+  background-color:#2c3e50;
+}
+
+
+
+input{
+border: none transparent !important;
+border-bottom:1px solid #e9ecef !important;
+margin:3% 0%!important;
+padding: 3% !important;
+font-size: 1.5rem;
+}
+
+textarea {
+  border: none transparent !important;
+  border-bottom:1px solid #e9ecef !important;
+  margin:3% 0%!important;
+  padding: 3% !important;
+
+}
+
+.btncontact{
+  background-color: #1abc9c;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: #fff;
+  padding: 13px 23px;
+  font-size: 18px !important;
+  margin-left: 0;
+  margin-bottom: 3rem;
+}
+.btncontact:hover{
+  background-color: #159a80;
+}
+
+.form-control:focus{
+    border: none;
+    box-shadow: none !important; 
+
+}
